@@ -8,7 +8,6 @@ This project demonstrates how to set up an FM radio receiver using the HackRF On
         
 - HackRF One
 - Antenna suitable for FM broadcast band (88-108 MHz)
-- Computer with USB port
 
 **Software:**
 - GNU Radio

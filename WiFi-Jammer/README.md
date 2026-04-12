@@ -1,22 +1,17 @@
-# 📡 WiFi Jammer
+# WiFi Jammer
 
-> ⚠️ **This project is for educational use in controlled environments only. Do not use in public or unauthorized networks.**
+> **This project is for educational use in controlled environments only. Do not use in public or unauthorized networks.**
 
 This project uses a **HackRF One** and **GNU Radio** to transmit interference signals in the 2.4 GHz band, targeting specific Wi-Fi channels.
 
-## 🧰 Requirements
+## Requirements
 
-### 📟 Hardware:
+### Hardware:
 
-- ✅ HackRF One
-- 📡 Antenna suitable for WiFi band (2401-2495 MHz)
-- 💻 Computer with USB port
+- HackRF One
+- Antenna suitable for WiFi band (2401-2495 MHz)
 
-### 💾 Software:
-- GNU Radio (3.8+ recommended)
-- HackRF tools and drivers (`hackrf-tools`)
-
-## 🎯 Wi-Fi Channels & Frequencies
+## Wi-Fi Channels & Frequencies
 
 | Channel | Frequency Range (MHz) |
 |:-------:|:---------------------:|
@@ -35,4 +30,4 @@ This project uses a **HackRF One** and **GNU Radio** to transmit interference si
 |   13*   |      2461 - 2483      |
 |   14*   |      2473 - 2495      |
 
-> 📌 Channels 12–14 are region-specific and may not be available on all devices.
+> Channels 12–14 are region-specific and may not be available on all devices.
